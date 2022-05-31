@@ -1,2 +1,2 @@
 # training
-new entry
+new entry!
